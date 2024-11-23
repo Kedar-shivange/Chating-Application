@@ -1,0 +1,15 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "This is chat application both member will send msg..",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "author": "Kedar shivanage",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  }
+}
